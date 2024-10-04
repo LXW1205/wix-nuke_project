@@ -7,5 +7,13 @@ Connect your site to GitHub, develop in your favorite IDE, test your code in rea
 ## Set up this repository in your IDE
 This repo is connected to a Wix site. That site tracks this repo's default branch. Any code committed and pushed to that branch from your local IDE appears on the site.
 
-# Nuke <img align="left" src="https://github.com/LXW1205/wix-nuke_project/commit/8281dd0c5ecabfadefd3e5b15c7fb4ee67503a4a#diff-c0da242c5eb5be90aae127075dfcb6a8451d0ec8cb17662ba3aaf3f51764a377">
+# Nuke
 
+Introducing Nuke, more than just a typical shoe brand. It represents a significant change in footwear. Nuke was created by combining fashion, coziness and eco-friendliness. Nuke footwear is created for the modern person who doesn’t want to ignore excellence. Nuke is created to help you during your journey, no matter if you’re in the occupied city or out in nature.
+
+These are our group members:
+Lee Xiu Wei
+Tan Park Zhong
+Jireh Chai E-Lok
+Lee Yung Yau
+Allan Ung Shii Qiang
