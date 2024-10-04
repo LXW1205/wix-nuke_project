@@ -15,10 +15,17 @@ Lee Yung Yau
 Allan Ung Shii Qiang
 
 1.	WEBSITE URL LINK
+
 https://eliteallan123.wixsite.com/nukeofficial 
 
 2.	MOBILE APPS URL LINK
+
 https://www.figma.com/design/vcbhJXbK45DW0iWGeITu8z/Group-Project?node-id=115-122&t=2jo0UTm1hoksIKep-1
+
+3.  MOBILE APPS USER MANUAL
+
+https://www.canva.com/design/DAGSUfQifeE/5m8swj2q4ED1sfgvyoU39A/view?utm_content=DAGSUfQifeE&utm_campaign=designshare&utm_medium=link&utm_source=editor 
+
 
 Others:
 
